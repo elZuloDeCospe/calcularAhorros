@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main 
 {
 
+	//comentario para primer commit
 	static Scanner sc = new Scanner(System.in);
 		
 	public static void main(String[] args) 
